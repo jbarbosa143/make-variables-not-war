@@ -1,6 +1,20 @@
 /******************
  * YOUR CODE BELOW *
  ******************/
+myFirstName = ("Jeremy");
+myLastName = ("Barbosa");
+myBestFriend = ("Decovan");
+mySentence = ("OMG");
+myFavoriteNum = (143);
+myMentalAge = (16);
+myHeight = (66);
+myFavoriteYear =(1988);
+mySum = (3 + 1918 + 24 + 1);
+myProduct = (232 * 43 / 2 + 4);
+myHeightAndAge = (myMentalAge + myHeight);
+
+console.log(mySum , myProduct , myHeightAndAge);
+
 
 
 
